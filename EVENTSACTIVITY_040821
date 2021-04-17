@@ -1,25 +1,12 @@
-users attend task in the city
-	New York is the city users chose
-in the city there will be many events 
-		these events occur on different dates
-Year Up Alumni Service
-	helps users connect 
-		connect through netowrking
-			networking for events in current city
-store all events from YU alumni service
-Events in current City
-more than 1 event occuring in users current city
-	New York
-from earliest to latest date of events
-earliest start date 
-	01/23/2019
-		Fifth Annual Best Friend
-03/20/2019
-	Year Up Alumni Bowl-A-thom
-latest start date
-	10/17/2019
-		Gamers for Year Up
-Users return home	
+User clicks current city in "user city"
+Event page is displayed with dates 
+User has the option to range the dates by ascending or descending
+Once User has decided the event they will attend, user clicks " next line "  
+Year Up Alumni Service portal appears and helps users connect connect through networking
+User networks at this point and plans out the experience
+( Example City ) was selected with ( Example Date ) 
+User reccives event info confirmation via text
+application returns user to home-page
 
 
 
