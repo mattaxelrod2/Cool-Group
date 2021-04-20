@@ -5,9 +5,11 @@ search for events occuring in "user city"
 store found events in "city's events"
 store upcoming events from "citys events" in "city's upcoming events"
 display "city's upcoming events" to user
-
-
-
+search for users current city's events
+display events splash screen
+user selects current event
+store current event page from users current city
+display splash screen of current event
 User has the option to range the dates by ascending or descending
-Once User has decided the event they will attend, user clicks "next line"
-Year Up Alumni Service portal appears and helps users connect through
+User clicks event
+Display splash screen of event
